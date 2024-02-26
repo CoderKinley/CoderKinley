@@ -2,7 +2,7 @@
 <h1 align="center">Yo 👋, I'm Kinley Penjor</h1>
 <h3 align="center">Coding to Solve Problems!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderkinley&label=Profile%20views&color=0e75b6&style=flat" alt="coderkuenley" /> </p>
 
