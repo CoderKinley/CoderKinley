@@ -3,7 +3,7 @@
 <h3 align="center">Coding to Solve Problems!</h3>
 
 
-<img align="right" alt="Coding" width="320" src="https://media.tenor.com/ZradFz5PxssAAAAi/mimibubu.gif" alt="Random_Image"/>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/ZradFz5PxssAAAAi/mimibubu.gif" alt="Random_Image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderkinley&label=Profile%20views&color=0e75b6&style=flat" alt="coderkuenley" /> </p>
 
