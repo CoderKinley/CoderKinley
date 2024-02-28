@@ -2,6 +2,9 @@
 <h1 align="center">Yo 👋, I'm Kinley Penjor</h1>
 <h3 align="center">Coding to Solve Problems!</h3>
 
+<div>
+  Hello!
+  <div/>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/ZradFz5PxssAAAAi/mimibubu.gif" alt="Random_Image"/>
 
