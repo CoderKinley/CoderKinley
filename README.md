@@ -49,9 +49,9 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=CoderKinley&show_icons=true&locale=en&theme=omni" alt="CoderKinley" /></p>
-<p><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderKinley&theme=omni" alt="CoderKinley" /></p>
-<p><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKinley&show_icons=true&locale=en&layout=compact&theme=omni" alt="CoderKinley" /></p>
+<p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=CoderKinley&show_icons=true&locale=en&theme=ambient_gradient" alt="CoderKinley" /></p>
+<p><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderKinley&theme=ambient_gradient" alt="CoderKinley" /></p>
+<p><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKinley&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="CoderKinley" /></p>
 
 
 https://tenor.com/en-GB/search/penguin-gifs
