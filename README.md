@@ -1,4 +1,3 @@
-![logo](https://github.com/CoderKinley/CoderKinley/blob/main/wallpaperflare.com_wallpaper%20(2).jpg)
 <h1 align="center">Yo 👋, I'm Kinley Penjor</h1>
 <h3 align="center">Coding to Solve Problems!</h3>
 
