@@ -51,7 +51,7 @@
 <p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=CoderKinley&show_icons=true&locale=en&theme=ambient_gradient" alt="CoderKinley" /></p>
 <!-- <p><img align="center" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderKinley&theme=ambient_gradient" alt="CoderKinley" /></p> -->
 <p><img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKinley&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="CoderKinley" /></p>
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderKinley&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=false" height="150" alt="languages graph"  />
 
 https://tenor.com/en-GB/search/penguin-gifs
 
