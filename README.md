@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Coderkinley&label=Profile%20views&color=0e75b6&style=flat" alt="coderkuenley" /> </p>
 
-- 🔭 I’m currently working on **Hexapod - Robotics**
+- 🔭 I’m currently working on **POS System development & Hexapod - Robotics**
 
 - 💬 Ask me about **Python, C++, JavaScript and Java**
 
