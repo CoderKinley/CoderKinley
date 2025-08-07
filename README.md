@@ -1,6 +1,10 @@
 <h1 align="center">Yo 👋, I'm Kinley Penjor</h1>
 <h3 align="center">Coding to Solve Problems!</h3>
 
+<h3>
+  Check my other Account
+</h3>
+
 <div>
   Hello!
   <div/>
