@@ -2,8 +2,8 @@
 <h3 align="center">Coding to Solve Problems!</h3>
 
 <div style="text-align: center; margin-top: 20px;">
-  <h3>Explore My GitHub Projects</h3>
-  <p>Check out all my work and contributions:</p>
+  <h3>Explore My Other Github</h3>
+  <p>Check out all my work and contributions in my other account:</p>
   <a href="https://github.com/CoderKiLe" 
      style="text-decoration: none; background-color: #24292f; color: #ffffff; padding: 10px 20px; border-radius: 6px; font-weight: bold; display: inline-block;">
     Visit My GitHub
@@ -12,7 +12,6 @@
 
 
 <div>
-  Hello!
   <div/>
 
 
